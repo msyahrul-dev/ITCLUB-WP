@@ -1,12 +1,30 @@
-# React + Vite
+# 💻 ITCLUB-WP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Website pembelajaran IT Club SMA Wijaya Plus berbasis React.js.
 
-Currently, two official plugins are available:
+![Project Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ⭐ About The Project
+ITCLUB-WP adalah sebuah platform website pembelajaran yang dibangun khusus untuk kegiatan ekstrakurikuler IT Club di SMA Wijaya Plus. Website ini dirancang untuk memudahkan siswa dalam mengakses materi pembelajaran, jadwal, dan informasi seputar kegiatan IT Club dengan antarmuka yang modern dan responsif.
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
+Website ini dikembangkan menggunakan teknologi modern:
+- **Framework:** React.js
+- **Build Tool:** Vite
+- **Styling:** CSS / (Tambahin kalau pakai Tailwind/Bootstrap)
+- **Deployment:** (Tambahin misal pakai Vercel / Netlify / GitHub Pages)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+- 📚 Akses materi pembelajaran IT secara terstruktur.
+- 📅 Informasi jadwal pertemuan dan kegiatan ekstrakurikuler.
+- 📱 Tampilan responsif yang nyaman dibuka di HP maupun Laptop.
+- ⚡ Performa cepat (dibangun menggunakan Vite + React).
+
+## 🚀 Installation & Setup Lokal
+Jika ingin menjalankan project ini di komputer lokal, ikuti langkah-langkah berikut:
+
+1. **Clone repository ini:**
+   ```bash
+   git clone [https://github.com/msyahrul-dev/ITCLUB-WP.git](https://github.com/msyahrul-dev/ITCLUB-WP.git)
