@@ -1,30 +1,32 @@
-# 💻 ITCLUB-WP
+<div align="center">
+  <h1>💻 ITCLUB-WP</h1>
+  <p>Website pembelajaran IT Club SMA Wijaya Plus berbasis React.js</p>
+  
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+</div>
 
-> Website pembelajaran IT Club SMA Wijaya Plus berbasis React.js.
-
-![Project Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E)
+<br />
 
 ## ⭐ About The Project
-ITCLUB-WP adalah sebuah platform website pembelajaran yang dibangun khusus untuk kegiatan ekstrakurikuler IT Club di SMA Wijaya Plus. Website ini dirancang untuk memudahkan siswa dalam mengakses materi pembelajaran, jadwal, dan informasi seputar kegiatan IT Club dengan antarmuka yang modern dan responsif.
+**ITCLUB-WP** adalah platform website yang dirancang khusus untuk mendukung kegiatan ekstrakurikuler IT Club di **SMA Wijaya Plus**. Website ini berfungsi sebagai pusat informasi dan media pembelajaran interaktif bagi para siswa dengan antarmuka yang modern.
 
 ## 🛠️ Tech Stack
-Website ini dikembangkan menggunakan teknologi modern:
-- **Framework:** React.js
+- **Frontend Framework:** React.js
 - **Build Tool:** Vite
-- **Styling:** CSS / (Tambahin kalau pakai Tailwind/Bootstrap)
-- **Deployment:** (Tambahin misal pakai Vercel / Netlify / GitHub Pages)
+- **Languages:** JavaScript, HTML, CSS
 
 ## ✨ Features
-- 📚 Akses materi pembelajaran IT secara terstruktur.
-- 📅 Informasi jadwal pertemuan dan kegiatan ekstrakurikuler.
-- 📱 Tampilan responsif yang nyaman dibuka di HP maupun Laptop.
-- ⚡ Performa cepat (dibangun menggunakan Vite + React).
+- 📚 **Materi Pembelajaran:** Akses mudah ke berbagai modul dan materi IT.
+- 📅 **Jadwal Kegiatan:** Informasi ter-update mengenai jadwal pertemuan IT Club.
+- 🤖 **Chatbot Interaktif:** Fitur asisten virtual untuk membantu navigasi atau pertanyaan siswa.
+- 📱 **Responsive Design:** Tampilan optimal dan nyaman diakses melalui perangkat seluler maupun desktop.
 
 ## 🚀 Installation & Setup Lokal
-Jika ingin menjalankan project ini di komputer lokal, ikuti langkah-langkah berikut:
+Untuk menjalankan project ini secara lokal di komputer, ikuti langkah-langkah berikut:
 
-1. **Clone repository ini:**
+1. **Clone repository ini**
    ```bash
    git clone [https://github.com/msyahrul-dev/ITCLUB-WP.git](https://github.com/msyahrul-dev/ITCLUB-WP.git)
